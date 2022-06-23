@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soha", "soha\soha.csproj", "{93C32BD1-EC97-475E-B8D1-3E4E48D20F1C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A67FD7CA-F686-4180-AA09-48DFF05A84C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93C32BD1-EC97-475E-B8D1-3E4E48D20F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C32BD1-EC97-475E-B8D1-3E4E48D20F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C32BD1-EC97-475E-B8D1-3E4E48D20F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C32BD1-EC97-475E-B8D1-3E4E48D20F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {669710C9-6A59-4C43-95B4-0E72387E590E}
+	EndGlobalSection
+EndGlobal
